@@ -1,2 +1,3 @@
 # News-Stream
 Hackathon project with the goal of eliminating “fake news.” 
+NewsStream starts with a QR code, which leads the user to a text message screen to a certain number with the auto filled box: “Subscribe.” Once the user sends “Subscribe,” the program asks the user about his/her interests. The user will input their category of news interests, such as technology and politics. Once these steps are completed, the program will send daily, verified, current news updates to the user at 7AM local time. The user has the following options: unsubscribe, add interests, remove interests, and view interests. 
